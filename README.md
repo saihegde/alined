@@ -1,4 +1,6 @@
-ionic-contrib-firebase-login
+Alined
 ============================
 
-Using Firebase's angularFire and simple login with Ionic
+The Lineman app
+
+
